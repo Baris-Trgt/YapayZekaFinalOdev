@@ -40,7 +40,7 @@ Fotoğrafları ve yazan haberleri takımların kendi resmi web sayfalarından al
 * [Youtube](https://Youtube.com/)
 * [Bootstrap](https://getbootstrap.com)
 * [PremierLeague](https://www.premierleague.com)
-* [DataSet](https://github.com/EmreArdicoglu/YapayZekaFinal/blob/main/E2021new.csv)
+* [DataSet](https://github.com/Baris-Trgt/YapayZekaFinalOdev/blob/main/E2021new.csv)
 * [PNGEgg](https://www.pngegg.com/tr)
 
 <p align="right">(<a href="#top">Başa geri dön</a>)</p>
